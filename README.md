@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing software applications to solve real world problems
 - 🌱 I’m constantly learning and unlearning software tools 
 - 💞️ I’m looking to collaborate in the building of web & mobile applications
-- My hobbies are listening to soul-touching sounds and watch football(soccer)
+- My hobbies are listening to soul-touching sounds and watching football(soccer)
 - 📫 You can reach me via mail: anselemcloud@gmail.com
 
 <!---

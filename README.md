@@ -37,9 +37,11 @@
     
 # Github Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnselemOdims&theme=tokyonight)](https://git.io/streak-stats)
+</br>
 
-
-<p align="right">
+# Contributions
+- 🐛 Opened a bug related issue on [Webhint](https://github.com/webhintio/hint/issues/4836)
+- 🐛 Opened another bug related issue on [Webhint](https://github.com/webhintio/hint/issues/4830)
 
 <!---
 AnselemOdims/AnselemOdims is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

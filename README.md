@@ -14,9 +14,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnselemOdims&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/AnselemOdims/github-readme-stats) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnselemOdims&repo=Portfolio&theme=tokyonight)](https://github.com/AnselemOdims/Portfolio)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnselemOdims&repo=CryptoFest&theme=tokyonight)](https://github.com/AnselemOdims/CryptoFest)
 </br>
 
 # Technologies & Tools

@@ -2,11 +2,12 @@
 
 <h2>👋 Hi, I’m<b> Anselem Odimegwu</b></h2>
 
-- 💻: I am currently enrolled in Microverse 
+- 💻 I am currently enrolled in Microverse 
 - 👀 I’m interested in developing software applications to solve real world problems
 - 🌱 I’m constantly learning and unlearning software tools 
 - 💞️ I’m looking to collaborate in the building of web & mobile applications
-- 🎵: My hobbies are listening to soul-touching sounds and watching football(soccer)
+- 📖 I also blog about my favorite topics. Check it out [here](https://anselemcodes.medium.com/)
+- 🎵 My hobbies are listening to soul-touching sounds and watching football(soccer)
 - 📫 You can reach me via mail: anselemcloud@gmail.com
 </br>
 

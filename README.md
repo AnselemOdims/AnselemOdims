@@ -1,4 +1,4 @@
-![my-banner](https://user-images.githubusercontent.com/43995830/146677089-19a83d75-7ba6-405f-b226-2dd51a7b5fcf.gif)
+![my-animated-banner](https://user-images.githubusercontent.com/43995830/146677424-031d2c29-3f0b-409d-bcf5-a4d3ce653deb.gif)
 
 <h2>👋 Hi, I’m<b> Anselem Odimegwu</b></h2>
 

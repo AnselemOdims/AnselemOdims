@@ -17,7 +17,7 @@
 
 </br>
 
-# Technologies & Tools
+## Technologies & Tools
 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -34,11 +34,18 @@
     </p>
     </br>
     
-# Github Streak Stats
+## Codewars Badge
+<p align="left">
+<a href="https://www.codewars.com/users/AnselemOdims/" target="_blank"><img src="https://www.codewars.com/users/AnselemOdims/badges/large"/></a>
+</p>
+
+<br/>
+
+## Github Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnselemOdims&theme=tokyonight)](https://git.io/streak-stats)
 </br>
 
-# Contributions
+## Contributions
 - 🐛 Opened a bug related issue on [Webhint](https://github.com/webhintio/hint/issues/4836)
 - 🐛 Opened another bug related issue on [Webhint](https://github.com/webhintio/hint/issues/4830)
 

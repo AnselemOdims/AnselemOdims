@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+![my-banner](https://user-images.githubusercontent.com/43995830/146677089-19a83d75-7ba6-405f-b226-2dd51a7b5fcf.gif)
 
 <h2>👋 Hi, I’m<b> Anselem Odimegwu</b></h2>
 

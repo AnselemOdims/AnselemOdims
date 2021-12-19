@@ -1,14 +1,14 @@
 ![my-animated-banner](https://user-images.githubusercontent.com/43995830/146677658-8088d483-297b-4d5b-ac66-9fac4caf512f.gif)
 
-<h2>👋 Hi, I’m<b> Anselem Odimegwu</b></h2>
+<h2>👋 About Me</h2>
 
-- 💻 I am currently enrolled in Microverse 
-- 👀 I’m interested in developing software applications to solve real world problems
-- 🌱 I’m constantly learning and unlearning software tools 
-- 💞️ I’m looking to collaborate in the building of web & mobile applications
-- 📖 I also blog about my favorite topics. Check it out [here](https://anselemcodes.medium.com/)
-- 🎵 My hobbies are listening to soul-touching sounds and watching football(soccer)
-- 📫 You can reach me via mail: anselemcloud@gmail.com
+- I’m interested in developing software applications to solve real world problems
+- I’m constantly learning and improving on new software tools & technologies
+- Astute graduate of Civil Engineering with a previous career as a Project Manager.
+- Currently enrolled in Microverse online school
+- I also blog about my favorite topics. Check it out [here](https://anselemcodes.medium.com/)
+- My hobbies are listening to soul-touching sounds and watching football(soccer)
+- You can reach me via mail: anselemcloud@gmail.com
 </br>
 
 [![Anselem's github stats](https://github-readme-stats.vercel.app/api?username=AnselemOdims&show_icons=true&theme=tokyonight)](https://github.com/AnselemOdims/github-readme-stats)

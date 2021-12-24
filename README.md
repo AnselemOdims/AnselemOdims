@@ -1,4 +1,6 @@
-![my-animated-banner](https://user-images.githubusercontent.com/43995830/146677658-8088d483-297b-4d5b-ac66-9fac4caf512f.gif)
+
+![profile](https://user-images.githubusercontent.com/43995830/147335366-0265fd74-89d4-401a-bd5e-af20f590e303.gif)
+
 
 <h2>👋 About Me</h2>
 

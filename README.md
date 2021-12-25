@@ -4,10 +4,10 @@
 
 <h2>👋 About Me</h2>
 
-- I’m interested in developing software applications to solve real world problems
+- I’m interested in developing software applications to solve real-world problems
 - I’m constantly learning and improving on new software tools & technologies
 - Astute graduate of Civil Engineering with a previous career as a Project Manager.
-- Currently enrolled in Microverse online school
+- Currently enrolled in Microverse online software engineering school
 - I also blog about my favorite topics. Check it out [here](https://anselemcodes.medium.com/)
 - My hobbies are listening to soul-touching sounds and watching football(soccer)
 - You can reach me via mail: anselemcloud@gmail.com

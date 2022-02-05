@@ -51,6 +51,7 @@
 - 🐛 Opened a bug related issue on [Webhint](https://github.com/webhintio/hint/issues/4836)
 - 🐛 Opened another bug related issue on [Webhint](https://github.com/webhintio/hint/issues/4830)
 
+
 <!---
 AnselemOdims/AnselemOdims is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

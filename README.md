@@ -1,6 +1,7 @@
 
 ![profile](https://user-images.githubusercontent.com/43995830/147335366-0265fd74-89d4-401a-bd5e-af20f590e303.gif)
 
+<br>
 
 <h2>👋 About Me</h2>
 
@@ -50,8 +51,7 @@
 </br>
 
 ## Contributions
-- 🐛 Opened a bug related issue on [Webhint](https://github.com/webhintio/hint/issues/4836)
-- 🐛 Opened another bug related issue on [Webhint](https://github.com/webhintio/hint/issues/4830)
+- Contributed a feature to the Open Source Community Africa 2022 Festival Website
 
 
 <!---
